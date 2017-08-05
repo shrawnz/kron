@@ -1,0 +1,50 @@
+{
+	 "name": "Introduction to Programming", 
+	 "id": "IP",
+	 "course no": "CSE101",
+	 "instructor":["Vikram Goel","Head TA"], 
+	 "credits": "4", 
+	 "category": "CSE", 
+	 "courseType":"Mandatory",
+	 "description": "Introductory course on Python", 
+	 "class":{
+
+	 		"lecture":[
+	 	
+						{
+							"day": "Monday",
+							"start_time": "1230", 
+							"end_time": "1330",	
+						},
+						{
+							"day": "Wednesday",
+							"start_time": "930", 
+							"end_time": "1030",	
+						},
+						{
+							"day": "Friday",
+							"start_time": "1100", 
+							"end_time": "1200",	
+						}
+					],
+	 		"tut":  [
+						{
+							"day":"Thursday",
+						 	"start_time":"1500",
+						 	"end_time":"1630",
+						},
+					],
+	 		"lab":	[
+						{
+							"day":"Tuesday",
+						 	"start_time":"1500",
+						 	"end_time":"1630",
+						}
+					],
+		},
+	 "batch":"morning",
+	 "pre requisites":["None"],
+}
+
+
+
