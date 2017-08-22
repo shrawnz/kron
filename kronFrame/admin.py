@@ -8,7 +8,7 @@ class OfferedInline(admin.TabularInline):
 
 class CoursesAdmin(admin.ModelAdmin):
 	inlines = [OfferedInline]
-	list_display = ('course_name', 'course_acronym')
+	list_display = ('name', 'acronym')
 # Register your models here.
 admin.site.register(Course, CoursesAdmin)
 

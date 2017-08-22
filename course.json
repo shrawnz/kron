@@ -1,7 +1,7 @@
 {
 	 "name": "Introduction to Programming", 
-	 "id": "IP",
-	 "course no": "CSE101",
+	 "acronym": "IP",
+	 "course_id": "CSE101",
 	 "instructor":["Vikram Goel","Head TA"], 
 	 "credits": "4", 
 	 "category": "CSE", 

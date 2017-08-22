@@ -1,0 +1,54 @@
+{% load staticfiles %}
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Course Details</title>
+    <link rel="stylesheet" href="{% static 'kronFrame/bootstrap.min.css' %}">
+    <link rel="stylesheet" href="{% static 'kronFrame/bootstrap-theme.min.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'kronFrame/style.css' %}" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css" rel="stylesheet" />
+</head>
+<body>
+<div class="jumbotron" style="padding-top: 20px;">
+    <h1>Course Details</h1>
+</div>
+ <form action="/populate/" method="post" id="populate-form">
+        {% csrf_token %}
+        <div class="container">
+            <div class="form-group">
+            {% for field in form %}
+		        {{ field.errors }}
+                {{ field.label_tag }} {{ field }}
+                <br>
+            {% endfor %}
+            <label for="id_prereq">Pre Requisites: </label> <br>
+            <input type="hidden" name="prereq" id="inp_prereq">
+            <select id="id_prereq" multiple="multiple">
+                {% for c in list %}
+                <option value="{{c.course_id}}">{{c.name}}</option>
+                {% endfor %}
+            </select>
+            <br>
+            <label for="id_instructor">Instructor: </label>
+            <input id="id_instructor" type="text" name="instructor">
+            <br>
+            <input class="btn btn-primary" type="submit" value="Save">
+		    </div>
+        </div>
+</body>
+<script type="text/javascript" src="{% static 'kronFrame/jQuery.js' %}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
+<script>
+        $('input[type=text]').addClass('form-control');
+        $('#id_prereq').select2();
+
+        $('#populate-form').submit(function(){
+
+            console.log($('#id_prereq').val());
+            $('#inp_prereq').val($('#id_prereq').val());
+
+        });
+        
+</script>
+</html>

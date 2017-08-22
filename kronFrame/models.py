@@ -4,16 +4,58 @@ from django.db import models
 
 # Create your models here.
 class Course(models.Model):
-	course_name = models.CharField(max_length=100)
-	course_ID = models.CharField(max_length=25)
-	course_acronym = models.CharField(max_length=10, primary_key=True)
+	name = models.CharField(max_length=100)
+	course_id = models.CharField(max_length=25,unique=True)
+	acronym = models.CharField(max_length=10, primary_key=True)
 	CREDS = (
 		(2,'2 Credits'),
 		(4, '4 Credits'),
 	)
-	course_credits = models.IntegerField(choices=CREDS, default=4)
+	credits = models.IntegerField(choices=CREDS, default=4)
+	
+	CATEGORY_CSE=1
+	CATEGORY_ECE=2
+	CATEGORY_MTH=3
+	CATEGORY_HSS=4
+	CATEGORY_BIO=5
+	CATEGORY_ECO=6
+	CATEGORY_OTH=7
+	
+	CATEGORIES = (
+		(CATEGORY_CSE,'CSE'),
+		(CATEGORY_ECE,'ECE'),
+		(CATEGORY_MTH,'MTH'),
+		(CATEGORY_HSS,'HSS'),
+		(CATEGORY_BIO,'BIO'),
+		(CATEGORY_ECO,'ECO'),
+		(CATEGORY_OTH,'OTH')
+	)
+	
+	category = models.IntegerField(choices=CATEGORIES, default=CATEGORY_CSE) 
+	
+	TYPE = (
+		(1,'Mandatory'),
+		(2, 'Elective')
+	)
+	choice_type = models.IntegerField(choices=TYPE, default=2)
+	semester = models.IntegerField(null=True)
+
 	def __str__(self):
-		return self.course_acronym
+		return self.acronym
+
+class Prerequisites(models.Model):
+	name = models.ForeignKey(Course, on_delete=models.CASCADE, related_name='prereqs')
+	prerequisite = models.ManyToManyField(Course)
+
+	def __str__(self):
+		return self.name
+
+class Instructor(models.Model):
+	name = models.CharField(max_length=50)
+	course = models.ForeignKey(Course, on_delete=models.CASCADE, related_name='instructor')
+
+	def __str__(self):
+		return self.name
 
 class CallSign(models.Model):
 	sign = models.CharField(max_length = 50, primary_key = True)
@@ -22,6 +64,14 @@ class CallSign(models.Model):
 
 class Offered(models.Model):
 	course = models.ForeignKey(Course, on_delete=models.CASCADE)
+	
+	TYPE = (
+		(1,'Lecture'),
+		(2,'Tutorial'),
+		(3,'Lab')
+	)
+	class_type = models.IntegerField(choices=TYPE,default=1)
+
 	callSign = models.ManyToManyField(CallSign)
 	areaName = models.CharField(max_length=50)
 	DAYS = (
