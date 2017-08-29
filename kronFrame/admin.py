@@ -1,6 +1,6 @@
 from django.contrib import admin
 
-from .models import Course, Offered, CallSign
+from .models import *
 
 class OfferedInline(admin.TabularInline):
 	model = Offered
@@ -12,4 +12,6 @@ class CoursesAdmin(admin.ModelAdmin):
 # Register your models here.
 admin.site.register(Course, CoursesAdmin)
 
-admin.site.register(CallSign)
+admin.site.register(Instructor)
+
+admin.site.register(Offered)

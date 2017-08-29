@@ -11,9 +11,9 @@
 </head>
 <body>
 <div class="jumbotron" style="padding-top: 20px;">
-    <h1>Course Details</h1>
+    <h1>Class Details</h1>
 </div>
- <form action="/populate/" method="post" id="populate-form">
+ <form action="/offered/" method="post" id="populate-form">
         {% csrf_token %}
         <div class="container">
             <div class="form-group" id="course_form">
@@ -22,17 +22,8 @@
                 {{ field.label_tag }} {{ field }}
                 <br>
             {% endfor %}
-            <label for="id_prereq">Pre Requisites: </label> <br>
-            <input type="hidden" name="prereq" id="inp_prereq">
-            <select id="id_prereq" multiple="multiple">
-                {% for c in list %}
-                <option value="{{c.course_id}}">{{c.name}}</option>
-                {% endfor %}
-            </select>
             <br>
-            <label for="id_instructor">Instructor: </label>
-            <input id="id_instructor" type="text" name="instructor">
-            <br>
+            <input type="hidden" name="course" id="inp_course">
             <input type="submit" class="btn btn-primary" value="Save">  
             </div>
         </div>
@@ -41,12 +32,20 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js"></script>
 <script>
         $('input[type=text]').addClass('form-control');
-        $('#id_prereq').select2();
+        $('#id_course').find('option').remove()
+        $('#id_course').css('width','50%');        
+        $('#id_course').select2();
+
+        {% for l in list %}
+            var option = new Option("{{l.name}}","{{l.acronym}}");
+            console.log(option);
+            $("#id_course").append(option);
+        {% endfor %}
+        
 
         $('#populate-form').submit(function(){
 
-            console.log($('#id_prereq').val());
-            $('#inp_prereq').val($('#id_prereq').val());
+            $('#inp_course').val($('#id_course').val());
 
         });
 

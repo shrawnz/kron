@@ -5,7 +5,7 @@ from django.db import models
 # Create your models here.
 class Course(models.Model):
 	name = models.CharField(max_length=100)
-	course_id = models.CharField(max_length=25,unique=True)
+	course_id = models.CharField(max_length=25)
 	acronym = models.CharField(max_length=10, primary_key=True)
 	CREDS = (
 		(2,'2 Credits'),
@@ -57,11 +57,6 @@ class Instructor(models.Model):
 	def __str__(self):
 		return self.name
 
-class CallSign(models.Model):
-	sign = models.CharField(max_length = 50, primary_key = True)
-	def __str__(self):
-		return self.sign
-
 class Offered(models.Model):
 	course = models.ForeignKey(Course, on_delete=models.CASCADE)
 	
@@ -72,7 +67,6 @@ class Offered(models.Model):
 	)
 	class_type = models.IntegerField(choices=TYPE,default=1)
 
-	callSign = models.ManyToManyField(CallSign)
 	areaName = models.CharField(max_length=50)
 	DAYS = (
 		('Mon','Monday'),
@@ -93,18 +87,18 @@ class Offered(models.Model):
 		('8', "11:30"),
 		('9', "12:00"),
 		('10', "12:30"),
-		('11', "01:00"),
-		('12', "01:30"),
-		('13', "02:00"),
-		('14', "02:30"),
-		('15', "03:00"),
-		('16', "03:30"),
-		('17', "04:00"),
-		('18', "04:30"),
-		('19', "05:00"),
-		('20', "05:30"),
-		('21', "06:00"),
-		('22', "06:30"),
+		('11', "13:00"),
+		('12', "13:30"),
+		('13', "14:00"),
+		('14', "14:30"),
+		('15', "15:00"),
+		('16', "15:30"),
+		('17', "16:00"),
+		('18', "16:30"),
+		('19', "17:00"),
+		('20', "17:30"),
+		('21', "18:00"),
+		('22', "18:30"),
 	)
 	class_day = models.CharField(max_length=3, choices=DAYS, default='Mon')
 	start_time = models.CharField(max_length=2,choices=TIME_CHOICES, default=1)

@@ -2,8 +2,7 @@ from django.shortcuts import render, get_object_or_404
 from django.http import HttpResponse
 from django.views import generic
 from collections import OrderedDict
-from kronFrame.forms import CourseForm
-
+from kronFrame.forms import CourseForm, OfferedForm
 from .models import *
 from pprint import pprint
 
@@ -59,12 +58,32 @@ class PopulateView(generic.DetailView):
 
 	def post(self, request, *args, **kwargs):
 		print (request.POST)
-		# courseForm = CourseForm(request.POST)
-		# if courseForm.is_valid():
-		# 	courseForm.save()
-		# 	course = Course.objects.filter(course_id=request.POST['course_id']);
-		# 	print course
-		# 	inst = Instructor(name=request.POST['instructor'],course=course)
+		courseForm = CourseForm(request.POST)
+		if courseForm.is_valid():
+			courseForm.save()
+			course = Course.objects.filter(course_id=request.POST['course_id']).first();
+			inst = Instructor(name=request.POST['instructor'],course=course)
+			inst.save()
 		new_form = CourseForm()
+		course_list = Course.objects.all()
+		return render(request, self.template_name, {'form':new_form,'list':course_list})
+
+class OfferedView(generic.DetailView):
+	template_name = 'kronFrame/offered.html'
+
+	def get(self,request):
+		print ("HERE")
+		text = "HeCk"
+		form = OfferedForm()
+		course_list = Course.objects.all()
+		return render(self.request, self.template_name, {'form':form,'text':text,'list':course_list})
+
+	def post(self, request, *args, **kwargs):
+		print (request.POST)
+		offeredForm = OfferedForm(request.POST)
+		if offeredForm.is_valid():
+			offeredForm.save()
+
+		new_form = OfferedForm()
 		course_list = Course.objects.all()
 		return render(request, self.template_name, {'form':new_form,'list':course_list})

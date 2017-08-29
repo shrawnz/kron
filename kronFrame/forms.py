@@ -15,7 +15,7 @@ class CourseForm(ModelForm):
         
         labels = {
             'name':('Name'),
-			'course_id':('ID'),
+			'course_id':('ID(eg. CSE101)'),
 			'acrnoym':('Acronym'),
 			'credits':('Credits'),
 			'category':('Category'),
@@ -33,3 +33,24 @@ class CourseForm(ModelForm):
              'semester' : TextInput()
         }
 
+class OfferedForm(ModelForm):
+    class Meta:
+        model = Offered
+        fields = ['course','class_type','class_day','start_time','end_time']
+
+        labels = {
+
+            'course':('Course'),
+            'class_type':("Type"),
+            'class_day':('Day'),
+            'start_time':("Start time"),
+            'end_time':('end_time')
+        }
+
+        widgets = {
+        'course': Select(),
+        'class_type' : RadioSelect(),
+        'class_day' : Select(),
+        'start_time' : Select(),
+        'end_time' : Select(),
+        }
