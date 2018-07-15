@@ -11,11 +11,11 @@ from django.contrib.admin.helpers import checkbox
 class CourseForm(ModelForm):
     class Meta:
         model = Course
-        fields = [ 'name', 'course_id', 'acronym', 'credits', 'category', 'choice_type','semester']
+        fields = [ 'name', 'cid', 'acronym', 'credits', 'category', 'choice_type','semester']
         
         labels = {
             'name':('Name'),
-			'course_id':('ID(eg. CSE101)'),
+			'cid':('ID(eg. CSE101)'),
 			'acrnoym':('Acronym'),
 			'credits':('Credits'),
 			'category':('Category'),
@@ -25,7 +25,7 @@ class CourseForm(ModelForm):
 
         widgets = {
              'name': TextInput(),
-             'course_id': TextInput(),
+             'cid': TextInput(),
              'acronym': TextInput(),
              'credits': RadioSelect(),
              'category': Select(), 

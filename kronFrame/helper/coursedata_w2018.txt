@@ -1,0 +1,990 @@
+<tr height=39 style='height:29.25pt'>
+<td height=39 class=xl151  style='height:29.25pt;border-top:none; width:87pt'>BIO213</td>
+<td class=xl169   style='border-top:none;border-left:none;width:170pt'>Introduction to Quantitaive Biology</td>
+<td class=xl170 style='border-top:none;border-left:none;width:129pt'>Subhadip Raychaudhuri</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Mon 2:30-4:00-C21 Thu 2:30-4:00-C21</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl171  style='width:187pt;border-left:none;'></td>
+</tr>
+<tr height=39 style='height:29.25pt'>
+<td height=39 class=xl151  style='height:29.25pt;border-top:none; width:87pt'>CSE202</td>
+<td class=xl169   style='border-top:none;border-left:none;width:170pt'>Fundamentals of Database Systems</td>
+<td class=xl172 style='border-top:none;border-left:none'>Vikram Goyal</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 10:00-11:30-C21 Fri 10:00-11:30-C21      </td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl173  style='border-left:none;width:187pt'>Wed 10:00-11:30 Gp1/2/3/4   LR1/LR2/LR3/S01</td>
+</tr>
+<tr height=86 style='height:64.5pt'>
+<td height=86 class=xl151  style='height:64.5pt;border-top:none; 
+  width:87pt'>CSE222</td>
+<td class=xl174   style='border-top:none;border-left:none;width:170pt'>Algorithm 
+  Design &amp; Analysis</td>
+<td class=xl175 style='border-top:none;border-left:none'>Debarka Sengupta</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Mon 10:00-11:00-C21 
+                                                                  
+    
+    Wed 09:00-10:00-C21           
+    Thu 12:30-1:30 C21 </p>
+<p>                                             </td>
+<td class=xl166  style='border-top:none;border-left:none;width:174pt'>Btech 
+  2nd Year CSE :  
+    Tue 11:30-1:30 Gp1/2/3/4 L21/L22/L23  
+    Fri 11:30-1:30 Gp1/2/3/4 L21/L22/L23  
+    Btech 2nd Year CSAM:  
+    Mon 11:00-1:00 Gp-1/2 L21/L22</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>Btech 
+  2nd Year CSAM:  
+    Wed 11:30-1:30 Gp-1/2 L21/L22</td>
+</tr>
+<tr height=35 style='height:26.25pt'>
+<td height=35 class=xl151  style='height:26.25pt;border-top:none; 
+  width:87pt'>CSE231</td>
+<td class=xl169   style='border-top:none;border-left:none;width:170pt'>Operating 
+  Systems</td>
+<td class=xl172 style='border-top:none;border-left:none'>Sambuddho 
+  Chakravarty</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Mon 
+  11:00-12:30-C21 
+                                                                  
+  Wed 11:30-1:00-C21 
+                                                   </td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl166  style='border-top:none;border-left:none;width:187pt'>Thu 
+  11:00-12:30 Gp 1/2/3/4 LR1/LR2/LR3/S01</td>
+</tr>
+<tr height=39 style='height:29.25pt'>
+<td height=39 class=xl151  style='height:29.25pt;border-top:none; 
+  width:87pt'>CSE234</td>
+<td class=xl176   style='border-top:none;border-left:none;width:170pt'>Computer 
+  Architecture and Operating Systems</td>
+<td class=xl176  style='border-top:none;border-left:none;width:129pt'>Bijoy 
+  Chand Chatterjee(V)</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 
+  12:30-1:30 C02  
+    Fri 12:30-1:30 C02</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl166  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=68 style='height:51.0pt'>
+<td height=68 class=xl151  style='height:51.0pt;border-top:none; 
+  width:87pt'>CSE322</td>
+<td class=xl162   style='border-top:none;border-left:none;width:170pt'>Theory of Computation</td>
+<td class=xl162  style='border-top:none;border-left:none;width:129pt'>Debajyoti Bera</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 4:00-5:30-C11 Fri 4:00-5:30-C11    </td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>Btech 2nd Year CSE:  Wed 2:30-3:30 Gp-1/2 C22/C23  Btech 2nd Year CSAM:  ed 2:30-3:30 Gp-1/2 C24/C13</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; width:87pt'>ECE214</td>
+<td class=xl162   style='border-top:none;border-left:none;width:170pt'>Integrated Electronics</td>
+<td class=xl162  style='border-top:none;border-left:none;width:129pt'>Sujay Deb</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 10:00-11:30 C02 Fri 10:00-11:30 C02</td>
+<td class=xl165 style='border-top:none;border-left:none'>Wed 9:30-12:30 Gp 1/2 SCL/L33</td>
+<td class=xl166  style='border-top:none;border-left:none;width:187pt'>Thu 12:30-1:30  Gp-1/2 LR1/LR2    </td>
+</tr>
+<tr height=51 style='height:38.25pt'>
+<td height=51 class=xl151  style='height:38.25pt;border-top:none;width:87pt'>ECE230</td>
+<td class=xl176   style='border-top:none;border-left:none;width:170pt'>Fields and Waves</td>
+<td class=xl176  style='border-top:none;border-left:none;width:129pt'>Shobha Sundar Ram</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 11:30-12:30 C02 Thu 11:30-12:30 C02 Fri 11:30-12:30 C02</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl166  style='border-top:none;border-left:none;width:187pt'>Mon 11:30-12:30 Gp-1/2 LR1/LR2 </td>
+</tr>
+<tr height=69 style='height:51.75pt'>
+<td height=69 class=xl151  style='height:51.75pt;border-top:none; width:87pt'>ECE240</td>
+<td class=xl162   style='border-top:none;border-left:none;width:170pt'>Principles of Communication Systems</td>
+<td class=xl162  style='border-top:none;border-left:none;width:129pt'>Anand Srivastava</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Mon 12:30-02:00-C02 Thu 09:30-11:00-C02  </td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl166  style='border-top:none;border-left:none;width:187pt'>Btech 2nd year CSE: Thu 2:30-4:00 S01 Btech 2nd year ECE: Tue 12:30-1:30 Gp-1/2 LR2/LR3</td>
+</tr>
+<tr height=38 style='height:28.5pt'>
+<td height=38 class=xl151  style='height:28.5pt;border-top:none;width:87pt'>MTH200</td>
+<td class=xl162   style='border-top:none;border-left:none;width:170pt'>Introdcution to Mathematical Logic</td>
+<td class=xl177 style='border-top:none;border-left:none'>Sankha Basu</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Mon 2:30-4:00-C02 Thu 2:30-4:00-C02</td>
+<td class=xl166  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl166  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=102 style='height:76.5pt'>
+<td height=102 class=xl151  style='height:76.5pt;border-top:none; width:87pt'>MTH204</td>
+<td class=xl177 style='border-top:none;border-left:none'>Math IV</td>
+<td class=xl177 style='border-top:none;border-left:none'>Sarthok Sircar</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 2:30-4:00-C21 Fri 2:30-4:00-C21</td>
+<td class=xl163  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>Btech 2nd year CSE: Mon 8:30-10:00 C22 Btech 2nd year ECE: Tue 4:00-5:30 Gp-1/2 LR1/LR2 Btech 2nd Year CSAM:  Thu 10:00-11:30 Gp-1/2 S02/C24</td>
+</tr>
+<tr height=87 style='height:65.25pt'>
+<td height=87 class=xl151  style='height:65.25pt;border-top:none; width:87pt'>MTH212</td>
+<td class=xl178 style='border-top:none;border-left:none'>Abstract Algebra</td>
+<td class=xl178 style='border-top:none;border-left:none'>Anuradha Sharma</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 10:00-11:30-A006 Fri 10:00-11:30-A006     </td>
+<td class=xl166  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl166  style='border-top:none;border-left:none;width:187pt'> Btech 2nd year CSAM: Wed 10:00-11:30 Gp-1/2 C12/C24</td>
+</tr>
+<tr height=85 style='height:63.75pt'>
+<td height=85 class=xl151  style='height:63.75pt;border-top:none; width:87pt'>MTH303</td>
+<td class=xl162   style='border-left:none;width:170pt'>Graph Theory</td>
+<td class=xl175 style='border-left:none'>Samaresh Chatterji(V)</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>  Mon 4:00-5:30-C21 Wed 4:00-5:30-C21</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>Btech 2nd Year CSE Mon 12:30-2:00 Gp-1/2/3 C22/C23/LR3  Btech 2nd Year ECE and CSAM  Wed 2:30-4:00 GT LR1 </td>
+</tr>
+<tr height=53 style='height:39.75pt'>
+<td height=53 class=xl151  style='height:39.75pt;border-top:none; width:87pt'>MTH311</td>
+<td class=xl179   style='border-top:none;border-left:none;width:170pt'>Combinatorics and its Applications</td>
+<td class=xl180 style='border-top:none;border-left:none'>Samrith Ram</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>  Mon 2:30-4:00-C03 Thu 2:30-4:00-C03 </td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl166  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=20 style='height:15.0pt'>
+<td height=20 class=xl181  style='height:15.0pt;border-top:none;  width:87pt'>&nbsp;</td>
+<td class=xl182   style='border-top:none;width:170pt'>&nbsp;</td>
+<td class=xl183 style='border-top:none'>&nbsp;</td>
+<td class=xl184  style='border-top:none;width:107pt'>&nbsp;</td>
+<td class=xl188 style='border-top:none'>&nbsp;</td>
+<td class=xl189  style='border-top:none;width:187pt'>&nbsp;</td>
+</tr>
+
+
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; width:87pt'>BIO523</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Cheminoformatics(New)</td>
+<td class=xl152 style='border-top:none;border-left:none'>Ganesh Bagler</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 4:00-5:30 C03 Fri 4:00-5:30 C03</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=38 style='height:28.5pt'>
+<td height=38 class=xl151  style='height:28.5pt;border-top:none; width:87pt'>BIO531</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Introduction to Mathematical Biology</td>
+<td class=xl152 style='border-top:none;border-left:none'>Subhadip Raychaudhuri</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Wed 10:00-11:30 A106  Fri 10:00-11:30 A106</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; width:87pt'>BIO533</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Systems and Synthetic Biology</td>
+<td class=xl152 style='border-top:none;border-left:none'>Sriram K</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 2:30-4:00 C03 Fri 2:30-4:00 C03</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=39 style='height:29.25pt'>
+<td height=39 class=xl185  style='height:29.25pt;border-top:none; width:87pt'>BIO534</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Introduction to Computational Neuroscience</td>
+<td class=xl186 style='border-top:none;border-left:none'>Sriram K</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Tue 10:00-11:30 C13 Thu 11:30-1:00 C13</td>
+<td class=xl166  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=38 style='height:28.5pt'>
+<td height=38 class=xl151  style='height:28.5pt;border-top:none; width:87pt'>BIO543</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Big Data Mining in Healthcare(New)</td>
+<td class=xl152 style='border-top:none;border-left:none'>GPS Raghava</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Mon 2:30-4:00 C24 Thu 2:30-4:00 C24</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; width:87pt'>BIO571</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Network Science(New)</td>
+<td class=xl152 style='border-top:none;border-left:none'>Ganesh Bagler</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 11:30-1:00 LR1 Fri 11:30-1:00 C22</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=39 style='height:29.25pt'>
+<td height=39 class=xl151  style='height:29.25pt;border-top:none; 
+  width:87pt'>CSE202</td>
+<td class=xl169   style='border-top:none;border-left:none;width:170pt'>Fundamentals 
+  of Database Systems</td>
+<td class=xl172 style='border-top:none;border-left:none'>Vikram Goyal</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 
+  10:00-11:30-C21 
+                                                                                                                 
+  Fri 10:00-11:30-C21      </td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl173  style='border-top:none;border-left:none;width:187pt'>Wed 
+  10:00-11:30 Gp1/2/3/4   
+    LR1/LR2/LR3/S01</td>
+</tr>
+<tr height=86 style='height:64.5pt'>
+<td height=86 class=xl151  style='height:64.5pt;border-top:none; 
+  width:87pt'>CSE222</td>
+<td class=xl174   style='border-top:none;border-left:none;width:170pt'>Algorithm 
+  Design &amp; Analysis</td>
+<td class=xl175 style='border-top:none;border-left:none'>Debarka Sengupta</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Mon 
+  10:00-11:00-C21 
+                                                                  
+    
+    Wed 09:00-10:00-C21           
+    Thu 12:30-1:30 C21 </p>
+<p>                                             </td>
+<td class=xl166  style='border-top:none;border-left:none;width:174pt'>Btech 
+  2nd Year CSE :  
+    Tue 11:30-1:30 Gp1/2/3/4 L21/L22/L23  
+    Fri 11:30-1:30 Gp1/2/3/4 L21/L22/L23  
+    Btech 2nd Year CSAM:  
+    Mon 11:00-1:00 Gp-1/2 L21/L22</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>Btech 
+  2nd Year CSAM:  
+    Wed 11:30-1:30 Gp-1/2 L21/L22</td>
+</tr>
+<tr height=35 style='height:26.25pt'>
+<td height=35 class=xl151  style='height:26.25pt;border-top:none; 
+  width:87pt'>CSE231</td>
+<td class=xl169   style='border-top:none;border-left:none;width:170pt'>Operating 
+  Systems</td>
+<td class=xl172 style='border-top:none;border-left:none'>Sambuddho 
+  Chakravarty</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Mon 
+  11:00-12:30-C21 
+                                                                  
+  Wed 11:30-1:00-C21 
+                                                   </td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl166  style='border-top:none;border-left:none;width:187pt'>Thu 
+  11:00-12:30 Gp 1/2/3/4 LR1/LR2/LR3/S01</td>
+</tr>
+<tr height=39 style='height:29.25pt'>
+<td height=39 class=xl151  style='height:29.25pt;border-top:none; 
+  width:87pt'>CSE234</td>
+<td class=xl176   style='border-top:none;border-left:none;width:170pt'>Computer 
+  Architecture and Operating Systems</td>
+<td class=xl176  style='border-top:none;border-left:none;width:129pt'>Bijoy 
+  Chand Chatterjee(V)</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 
+  12:30-1:30 C02  
+    Fri 12:30-1:30 C02</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl166  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=35 style='height:26.25pt'>
+<td height=35 class=xl151  style='height:26.25pt;border-top:none; 
+  width:87pt'>CSE322</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Theory 
+  of Computation</td>
+<td class=xl152 style='border-top:none;border-left:none'>Debajyoti Bera</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Tue 
+  4:00-5:30-C11 
+                                                   
+    
+    Fri 4:00-5:30-C11    </td>
+<td class=xl166  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>  
+    Wed 2:30-3:30 C22</td>
+</tr>
+<tr height=20 style='height:15.0pt'>
+<td height=20 class=xl151  style='height:15.0pt;border-top:none; 
+  width:87pt'>CSE341/CSE541</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Biometrics/Advanced 
+  Biometrics</td>
+<td class=xl152 style='border-top:none;border-left:none'>Mayank Vatsa</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Wed 
+  4:00-7:00 C24</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; 
+  width:87pt'>CSE342/CSE542</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Statistical 
+  Machine Learning</td>
+<td class=xl152 style='border-top:none;border-left:none'>Richa Singh</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 
+  2:30-4:00 C11  
+    Fri 2:30-4:00 C11</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=38 style='height:28.5pt'>
+<td height=38 class=xl151  style='height:28.5pt;border-top:none; 
+  width:87pt'>CSE344/CSE544/  
+    ECE344/ECE544</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Computer 
+  Vision</td>
+<td class=xl152 style='border-top:none;border-left:none'>Saket Anand</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Mon 
+  11:30-1:00 C24  
+    Wed 11:30-1:00 C24</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=38 style='height:28.5pt'>
+<td height=38 class=xl151  style='height:28.5pt;border-top:none; 
+  width:87pt'>CSE501</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Designing 
+  Human-Centred Systems</td>
+<td class=xl152 style='border-top:none;border-left:none'>Ponnurangam 
+  Kumaraguru</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Mon 
+  10:00-11:30 A106  
+    Thu 10:00-11:30 C01</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=38 style='height:28.5pt'>
+<td height=38 class=xl151  style='height:28.5pt;border-top:none; 
+  width:87pt'>CSE502</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Foundations 
+  of Parallel Programming</td>
+<td class=xl152 style='border-top:none;border-left:none'>Vivek Kumar</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Mon 
+  11:30-1:00 B105  
+    Wed 11:30-1:00 B105</td>
+<td class=xl165 style='border-top:none;border-left:none'>Wed 5:30-7:00 L21</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; 
+  width:87pt'>CSE508</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Information 
+  Retrieval</td>
+<td class=xl152 style='border-top:none;border-left:none'>Tanmoy Chakraborty</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 
+  11:30-1:00 A006   
+    Fri 11:30-1:00 A006</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; 
+  width:87pt'>CSE510A</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Big 
+  Data Analytics    </td>
+<td class=xl152 style='border-top:none;border-left:none'>Vikram Goyal</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 
+  4:00-5:30 C13 
+    </td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; 
+  width:87pt'>CSE523</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Randomised 
+  Algorithms</td>
+<td class=xl152 style='border-top:none;border-left:none'>Rajiv Raman</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 
+  10:00-11:30 C22  
+    Thu 11:30-1:00 C22</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; 
+  width:87pt'>CSE524</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Theory 
+  of Modern Cryptography</td>
+<td class=xl152 style='border-top:none;border-left:none'>Donghoon Chang</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 
+  10:00-11:30 C12  
+    Thu 11:30-1:00 C12</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; 
+  width:87pt'>CSE535</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Mobile 
+  Computing</td>
+<td class=xl152 style='border-top:none;border-left:none'>Pushpendra Singh</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 
+  4:00-5:30 C21   
+    Fri 4:00-5:30 C21</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; 
+  width:87pt'>CSE560</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>GPU 
+  Computing</td>
+<td class=xl152 style='border-top:none;border-left:none'>Ojaswa Sharma</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Mon 
+  10:00-11:30 C13  
+    Thu 10:00-11:30 C13</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; 
+  width:87pt'>CSE561</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Probabilistic 
+  Graphical Models</td>
+<td class=xl152 style='border-top:none;border-left:none'>Chetan Arora</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Mon 
+  10:00-11:30 C03   
+    Thu 10:00-11:30 C03</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=38 style='height:28.5pt'>
+<td height=38 class=xl151  style='height:28.5pt;border-top:none; 
+  width:87pt'>CSE563</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Multimedia 
+  Computing and Applications(New)</td>
+<td class=xl152 style='border-top:none;border-left:none'>Rajiv Ratn Shah</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Wed 
+  10:00-11:30 C13   
+    Fri 10:00-11:30 C13</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; 
+  width:87pt'>CSE570</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Virtual Reality(New)</td>
+<td class=xl152 style='border-top:none;border-left:none'>Ojaswa Sharma</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Mon 
+  2:30-4:00 C13  
+    Thu 2:30-4:00 C13</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>Wed 
+  2:30-4:00 L23</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=38 style='height:28.5pt'>
+<td height=38 class=xl151  style='height:28.5pt;border-top:none; 
+  width:87pt'>CSE577</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Advanced 
+  Internet of Things(New)</td>
+<td class=xl152 style='border-top:none;border-left:none'>Juhi Ranjan</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Wed 
+  10:00-11:30 C03   
+    Fri 10:00-11:30 C03</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; 
+  width:87pt'>CSE5xx    </td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Approximation 
+  Algorithm</td>
+<td class=xl152 style='border-top:none;border-left:none'>Syamantak Das</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 
+  11:30-1:00 C13   
+    Fri 11:30-1:00 C13</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; 
+  width:87pt'>CSE5xx/ECE5xx</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Reinforcement 
+  Learning(New)</td>
+<td class=xl152 style='border-top:none;border-left:none'>Sanjit Kaul</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Mon 
+  11:30-1:00 C03   
+    Wed 11:30-1:00 C03</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; 
+  width:87pt'>CSE606</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Data 
+  Warehousing</td>
+<td class=xl152 style='border-top:none;border-left:none'>Naveen Prakash(G)</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Mon 
+  4:00-5:30 C13  
+    Wed 4:00-5:30 C13</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; 
+  width:87pt'>CSE609</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Statistical 
+  Computation</td>
+<td class=xl152 style='border-top:none;border-left:none'>Vibhor Kumar</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Mon 
+  10:00-11:30 C12  
+    Thu 0:00-11:30 C12</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=38 style='height:28.5pt'>
+<td height=38 class=xl151  style='height:28.5pt;border-top:none; 
+  width:87pt'>CSE622</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Introduction 
+  to Quantum Computing</td>
+<td class=xl152 style='border-top:none;border-left:none'>Debajyoti Bera</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 
+  11:30-1:00 C03  
+    Fri 11:30-1:00 C03</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=38 style='height:28.5pt'>
+<td height=38 class=xl151  style='height:28.5pt;border-top:none; 
+  width:87pt'>CSE631</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Advanced 
+  Operating Systems(New)</td>
+<td class=xl152 style='border-top:none;border-left:none'>Piyus Kedia</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Wed 
+  10:00-11:30 B105   
+    Fri 10:00-11:30 B105</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; 
+  width:87pt'>CSE633/ECE670</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Robotics</td>
+<td class=xl152 style='border-top:none;border-left:none'>P B Sujit</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 
+  11:30-1:00 C23   
+    Fri 11:30-1:00 C23</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl185  style='height:25.5pt;border-top:none; 
+  width:87pt'>CSE641</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Deep 
+  Learning</td>
+<td class=xl186 style='border-top:none;border-left:none'>Chetan Arora+ Saket 
+  Anand</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Mon 
+  2:30-4:00 C12  
+    Thu 2:30-4:00 C12</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; 
+  width:87pt'>CSE694F/ECE651</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Multimedia 
+  Security</td>
+<td class=xl152 style='border-top:none;border-left:none'>A V Subramanyam</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Wed 
+  10:00-11:30 C22  
+    Fri 10:00-11:30 C22</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=38 style='height:28.5pt'>
+<td height=38 class=xl151  style='height:28.5pt;border-top:none; 
+  width:87pt'>CSE734</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Advance 
+  Topics in Mobile Computing</td>
+<td class=xl152 style='border-top:none;border-left:none'>Mukulika Maity</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Mon 
+  2:30-4:00 C23  
+    Thu 2:30-4:00 C23</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; 
+  width:87pt'>DES302</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Animation 
+  and Graphics</td>
+<td class=xl152 style='border-top:none;border-left:none'>Manohar Khushalani(V)</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 
+  10:00-11:30 C24/L21  
+    Thu 11:30-1:00 A006/L21</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=38 style='height:28.5pt'>
+<td height=38 class=xl151  style='height:28.5pt;border-top:none; 
+  width:87pt'>DES5xx</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Game 
+  Design and Development(New)</td>
+<td class=xl152 style='border-top:none;border-left:none'>Timothy Moyers</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 
+  2:30-4:00 L21  
+    Fri 2:30-4:00 L21</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=35 style='height:26.25pt'>
+<td height=35 class=xl185  style='height:26.25pt;border-top:none; 
+  width:87pt'>ECE/432/ECE632</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Radar 
+  Systems</td>
+<td class=xl186 style='border-top:none;border-left:none'>Shobha Sundar Ram</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Tue 
+  4:00-5:30 C22  
+    Fri 4:00-5:30 C22</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl185  style='height:25.5pt;border-top:none; 
+  width:87pt'>ECE1517</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Introduction 
+  to Nanoelectronics</td>
+<td class=xl186 style='border-top:none;border-left:none'>Sneh Saurabh</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Mon 
+  10:00-11:30 C24  
+    Thu 10:00-11:30 C24</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; 
+  width:87pt'>ECE343</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Mobile 
+  Communication</td>
+<td class=xl152 style='border-top:none;border-left:none'>Abhijit Mitra(V)</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Tue 
+  11:30-1:00 C12  
+    Fri 11:30-1:00 C12</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; 
+  width:87pt'>ECE452/ECE552</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Statistical 
+  Signal Processing</td>
+<td class=xl152 style='border-top:none;border-left:none'>Pravesh Biyani</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Mon 
+  2:30-4:00 C22  
+    Thu 2:30-4:00 C22</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; 
+  width:87pt'>ECE510</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Digital 
+  Hardware Design</td>
+<td class=xl152 style='border-top:none;border-left:none'>Sumit Darak</td>
+<td class=xl163  style='border-top:none;border-left:none;width:107pt'>Tue 
+  11:30-1:00 C22 
+    </td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>Fri 
+  11:30-1:30 L32</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=39 style='height:29.25pt'>
+<td height=39 class=xl185  style='height:29.25pt;border-top:none; 
+  width:87pt'>ECE534</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Optical 
+  Communication Systems</td>
+<td class=xl186 style='border-top:none;border-left:none'>Anand Srivastava</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Tue 
+  10:00-11:30 C23  
+    Thu 11:30-1:00 C23</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=20 style='height:15.0pt'>
+<td height=20 class=xl185  style='height:15.0pt;border-top:none; 
+  width:87pt'>ECE536s</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Optical 
+  Networks(New)</td>
+<td class=xl186 style='border-top:none;border-left:none'>Bijoy Chand 
+  Chatterjee(V)</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Wed 
+  4:00-5:30 C23</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=39 style='height:29.25pt'>
+<td height=39 class=xl185  style='height:29.25pt;border-top:none; 
+  width:87pt'>ECE539</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Wireless 
+  System Implementation</td>
+<td class=xl186 style='border-top:none;border-left:none'>Vivek Bohara 
+      </td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Tue 
+  2:30-4:00 C24  
+    Fri 2:30-4:00 C24</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=35 style='height:26.25pt'>
+<td height=35 class=xl185  style='height:26.25pt;border-top:none; 
+  width:87pt'>ECE571</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Optimal 
+  Control Systems</td>
+<td class=xl186 style='border-top:none;border-left:none'>P B Sujit</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Tue 
+  2:30-4:00 C22  
+    Fri 2:30-4:00 C22</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=39 style='height:29.25pt'>
+<td height=39 class=xl185  style='height:29.25pt;border-top:none; 
+  width:87pt'>ECE573</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Advanced 
+  Embedded Logic Design</td>
+<td class=xl186 style='border-top:none;border-left:none'>Sumit Mediratta(V)</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Mon 
+  11:30-1:00 A006  
+    Wed 11:30-1:00 A006</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=35 style='height:26.25pt'>
+<td height=35 class=xl185  style='height:26.25pt;border-top:none; 
+  width:87pt'>ECE611</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Memory 
+  Design and Testing</td>
+<td class=xl186 style='border-top:none;border-left:none'>Anuj Grover</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Tue 
+  4:00-5:30 C02  
+    Fri 4:00-5:30 C02</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=35 style='height:26.25pt'>
+<td height=35 class=xl185  style='height:26.25pt;border-top:none; 
+  width:87pt'>ECE612</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Mixed 
+  Signal Design</td>
+<td class=xl185  style='border-top:none;border-left:none;width:129pt'>Pydi 
+  Ganga Mamba Bahubalindruni</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Wed 
+  10:00-11:30 C12   
+    Fri 10:00-11:30 C12</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=35 style='height:26.25pt'>
+<td height=35 class=xl151  style='height:26.25pt;border-top:none; 
+  width:87pt'>ECO101</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Microeconomics</td>
+<td class=xl151  style='border-top:none;border-left:none;width:129pt'>Gaurav 
+  Arora</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Mon 
+  11:30-1:00 A106  
+    Wed 11:30-1:00 A106</td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=35 style='height:26.25pt'>
+<td height=35 class=xl185  style='height:26.25pt;border-top:none; 
+  width:87pt'>ECO313</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Market 
+  Design(New)</td>
+<td class=xl186 style='border-top:none;border-left:none'>Rakesh Chaturvedi</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Mon 
+  4:00-5:30 C22  
+    Wed 4:00-5:30 C22</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=20 style='height:15.0pt'>
+<td height=20 class=xl185  style='height:15.0pt;border-top:none; 
+  width:87pt'>ENG599s</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Research 
+  Methods</td>
+<td class=xl186 style='border-top:none;border-left:none'>Anubha Gupta</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Mon 
+  4:00-5:30 C11</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=20 style='height:15.0pt'>
+<td height=20 class=xl185  style='height:15.0pt;border-top:none; 
+  width:87pt'>ENT402</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Entrepreneurship 
+  II</td>
+<td class=xl186 style='border-top:none;border-left:none'>Hemant Kumar(V)</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Mon 
+  2:30-4:00 LR1</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=39 style='height:29.25pt'>
+<td height=39 class=xl185  style='height:29.25pt;border-top:none; 
+  width:87pt'>FIN402</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Valuation 
+  and Portfolio Management</td>
+<td class=xl186 style='border-top:none;border-left:none'>Pankaj Vajpayee(V)</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Tue 
+  11:30-1:00 C21   
+    Fri 11:30-1:00 C21</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=39 style='height:29.25pt'>
+<td height=39 class=xl185  style='height:29.25pt;border-top:none; 
+  width:87pt'>MGT310</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Effective 
+  Supply Chain Management for E Commerce</td>
+<td class=xl186 style='border-top:none;border-left:none'>Sanjiva Dubey(G)</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Tue 
+  4:00-5:30 C24  
+    Fri 4:00-5:30 C24</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=38 style='height:28.5pt'>
+<td height=38 class=xl151  style='height:28.5pt;border-top:none; 
+  width:87pt'>MTH200</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Introduction 
+  to Mathematical Logic(New)</td>
+<td class=xl152 style='border-top:none;border-left:none'>Sankha Basu</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Mon 
+  2:30-4:00-C02 
+                                            
+    
+    Thu 2:30-4:00-C02 
+                                                   </td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=34 style='height:25.5pt'>
+<td height=34 class=xl151  style='height:25.5pt;border-top:none; 
+  width:87pt'>MTH303</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Graph 
+  Theory</td>
+<td class=xl152 style='border-top:none;border-left:none'>Samaresh 
+  Chatterji(V)</td>
+<td class=xl153  style='border-top:none;border-left:none;width:107pt'>Mon 
+  4:00-5:30-C21 
+                                                                  
+  Wed 4:00-5:30-C21 
+                                                 </td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>Wed 
+  2:30-4:00 LR1</td>
+</tr>
+<tr height=35 style='height:26.25pt'>
+<td height=35 class=xl185  style='height:26.25pt;border-top:none; 
+  width:87pt'>MTH305/MTH505</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Linear 
+  Optimization</td>
+<td class=xl186 style='border-top:none;border-left:none'>Pravesh Biyani</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Mon 
+  10:00-11:30 C22  
+    Thu 10:00-11:30 C22</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=52 style='height:39.0pt'>
+<td height=52 class=xl151  style='height:39.0pt;border-top:none; 
+  width:87pt'>MTH311</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Combinatorics 
+  and its Applications(New)</td>
+<td class=xl152 style='border-top:none;border-left:none'>Samrith Ram</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>  
+    Mon 2:30-4:00-C03 
+                                                                
+  Thu 2:30-4:00-C03 
+                                                 </td>
+<td class=xl153  style='border-top:none;border-left:none;width:174pt'>&nbsp;</td>
+<td class=xl153  style='border-top:none;border-left:none;width:187pt'>&nbsp;</td>
+</tr>
+<tr height=39 style='height:29.25pt'>
+<td height=39 class=xl185  style='height:29.25pt;border-top:none; 
+  width:87pt'>MTH570</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Numerical 
+  Solutions for Differential Equations</td>
+<td class=xl186 style='border-top:none;border-left:none'>Kaushik Kalyanaraman</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Tue 
+  2:30-4:00 C13  
+    Fri 2:30-4:00 C13</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=35 style='height:26.25pt'>
+<td height=35 class=xl185  style='height:26.25pt;border-top:none; 
+  width:87pt'>PSY202</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Positive 
+  Psychology</td>
+<td class=xl186 style='border-top:none;border-left:none'>Akshay Kumar(V)</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Mon 
+  4:00-5:30 C01  
+    Wed 4:00-5:30 C01</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=39 style='height:29.25pt'>
+<td height=39 class=xl185  style='height:29.25pt;border-top:none; 
+  width:87pt'>PSY301</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Introduction 
+  to Cognitive Psychology(New)</td>
+<td class=xl186 style='border-top:none;border-left:none'>Venkat Ratandeep 
+  Suri</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Mon 
+  4:00-5:30 C24  
+    Wed 4:00-5:30 C24</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=38 style='height:28.5pt'>
+<td height=38 class=xl185  style='height:28.5pt;border-top:none; 
+  width:87pt'>SOC201</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Introduction 
+  to Sociology/Anthropology(New)</td>
+<td class=xl151  style='border-top:none;border-left:none;width:129pt'>Amrit 
+  Srinivasan(V)</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Mon 
+  11:30-1:00 C11  
+    Wed 11:30-1:00 C11</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=38 style='height:28.5pt'>
+<td height=38 class=xl185  style='height:28.5pt;border-top:none; 
+  width:87pt'>SOC205</td>
+<td class=xl151   style='border-top:none;border-left:none;width:170pt'>Anthropology 
+  of Social Media(New)</td>
+<td class=xl151  style='border-top:none;border-left:none;width:129pt'>Shriram 
+  Venkatraman</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Mon 
+  11:30-1:00 C01  
+    Wed 11:30-1:00 C01</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=35 style='height:26.25pt'>
+<td height=35 class=xl185  style='height:26.25pt;border-top:none; 
+  width:87pt'>SSH121</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Introduction 
+  to Philosophy(New)</td>
+<td class=xl186 style='border-top:none;border-left:none'>Raj Ayyar(V)</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Mon 
+  11:30-1:00 C12  
+    Wed 11:30-1:00 C12</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=35 style='height:26.25pt'>
+<td height=35 class=xl185  style='height:26.25pt;border-top:none; 
+  width:87pt'>SSH124</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Critical 
+  Thinking</td>
+<td class=xl186 style='border-top:none;border-left:none'>Raj Ayyar(V)</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Mon 
+  4:00-5:30 C12  
+    Wed 4:00-5:30 C12</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=39 style='height:29.25pt'>
+<td height=39 class=xl185  style='height:29.25pt;border-top:none; 
+  width:87pt'>SSH214</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Introduction 
+  to the Study of Literature</td>
+<td class=xl186 style='border-top:none;border-left:none'>Honey Jhalani(G)</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Mon 
+  4:00-5:30 LR1  
+    Wed 4:00-5:30 LR1</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
+<tr height=20 style='height:15.0pt'>
+<td height=20 class=xl185  style='height:15.0pt;border-top:none; 
+  width:87pt'>SSH217</td>
+<td class=xl185   style='border-top:none;border-left:none;width:170pt'>Indian 
+  Poetry through the Ages</td>
+<td class=xl186 style='border-top:none;border-left:none'>Saumya 
+  Kulshreshtha(G)</td>
+<td class=xl166  style='border-top:none;border-left:none;width:107pt'>Tue 
+  4:30-6:00 C12</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+<td class=xl165 style='border-top:none;border-left:none'>&nbsp;</td>
+</tr>
